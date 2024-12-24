@@ -1,0 +1,14 @@
+{
+  "name": "@ofigelov/weakrefmap",
+  "version": "0.0.1",
+  "browser": "./src/index.ts",
+  "main": "./src/index.ts",
+  "scripts": {
+    "publish": "yarn npm publish --access public"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2",
+    "typescript": "5.6.2"
+  },
+  "packageManager": "yarn@4.5.3"
+}
